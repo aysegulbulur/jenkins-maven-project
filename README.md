@@ -1,2 +1,2 @@
 # jenkins-maven-project
-This is test project
+This is for test project
